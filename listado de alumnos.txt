@@ -1,10 +1,10 @@
-Profesor de Git: Cesar Estuardo Wilson Estefan
+﻿Profesor de Git: Cesar Estuardo Wilson Estefan
 
 Alumnos:
 1 Alexis Calderón Regalado
 2 Karla Maria Castellanos Irungaray
 3 Andres Alonso Chaparro Espinosa
-4
+4 Ivan de Jesus Corona Perez
 5 Karla Elena De La Paz Cruz Alvarez.
 6 Efren Del Real Frias.
 7
